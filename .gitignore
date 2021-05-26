@@ -1,0 +1,6 @@
+cmake-build-debug
+.bash_history
+CMakeLists.txt
+*.o
+httpd
+.idea
